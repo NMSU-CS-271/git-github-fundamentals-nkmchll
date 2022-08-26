@@ -109,6 +109,3 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
-
-
-In this lesson, I learned more about the basics of GitHub. I have heard of GitHub as an app where programers would share their code either contributing to a project or creating a project. However, I was not aware of all the features it has. It is still a bit confusing to me like for example when submitting a file, how would I check that I submitted it in the correct place. 
